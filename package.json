@@ -16,6 +16,11 @@
     "url": "https://github.com/RongMine/grunt-learn/issues"
   },
   "homepage": "https://github.com/RongMine/grunt-learn#readme",
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-loadable": "^5.5.0",
+    "react-router-dom": "^4.3.1"
+  },
   "devDependencies": {}
 }
