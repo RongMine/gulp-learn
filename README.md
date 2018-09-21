@@ -15,6 +15,15 @@
   glob:String 或 Array,字符串或数组，如'js/**/*.js'或['js/**/*.js','src/**/*.js']
   tasks:任务列表
 
-#### 编写插件
+#### [插件列表](https://gulpjs.com/plugins/)
 
--
+#### 编写插件[来自gulp中文网](https://www.gulpjs.com.cn/)
+
+- [导读](https://www.gulpjs.com.cn/docs/writing-a-plugin/guidelines/)
+
+- [使用Buffer](https://www.gulpjs.com.cn/docs/writing-a-plugin/using-buffers/)
+
+- [使用stream](https://www.gulpjs.com.cn/docs/writing-a-plugin/dealing-with-streams/)
+
+- [测试](https://www.gulpjs.com.cn/docs/writing-a-plugin/testing/)
+
