@@ -1,4 +1,12 @@
 #### [gulp-learn](https://github.com/RongMine/gulp-learn "地址")
+###### gulp更偏重任务管理，可以和webpack一同使用，webpack更偏于模块处理，相当于browserify，但比其更强大
+#### 示例内容：
+(直接使用webpack处理，gulp只管理任务)
+- react、scss、ES6支持
+- 热更新支持react、scss
+- 代码分离，文件缓存
+- 文件压缩
+
 
 #### 笔记：
 ##### API
