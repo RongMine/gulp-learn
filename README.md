@@ -8,9 +8,9 @@
 - 文件压缩
 
 #### 示例启动
-- > yarn
+- > > yarn
 
-- > gulp start
+- > > gulp start
 
 #### 笔记：
 ##### API
